@@ -11,6 +11,15 @@ The system is built using Python and Flask, and uses a **random forest regressio
 
 <br>
 
+## ⚙️ Executing
+
+Run the `app.py` file in your terminal:
+
+```bash
+python app.py
+```
+
+<br>
 ## 📌 Features / Contributions
 * Any contributions you make are _greatly appreciated_
 * Would be glad to hear about _new features_ to add in the website
