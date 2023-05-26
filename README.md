@@ -13,10 +13,22 @@ The system is built using Python and FastAPI, and uses a **random forest regress
 
 ## ⚙️ Executing
 
-Run the `app.py` file in your terminal:
+1.Install the dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+2. Run the `app.py` file in your terminal:
 
 ```bash
 python app.py
+```
+
+3. Run the `streamlit_app.py` file in your terminal:
+
+```bash
+streamlit run streamlit_app.py
 ```
 
 <br>
