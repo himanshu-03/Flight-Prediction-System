@@ -2,7 +2,7 @@
 
 This repository contains the source code for a **Flight Prediction System**, which is a machine learning-based web application that allows users to predict the cost of a flight based on their desired travel details.
 
-The system is built using Python and Flask, and uses a **random forest regression** model and **XGBoost regression model** to make predictions based on the user's input. The trained models have been saved as pickle files and are loaded into the Flask app to make real-time predictions.
+The system is built using Python and FastAPI, and uses a **random forest regression** model and **XGBoost regression model** to make predictions based on the user's input. The trained models have been saved as pickle files and are loaded into the Flask app to make real-time predictions.
 
 ## 👀 Screenshots
 
